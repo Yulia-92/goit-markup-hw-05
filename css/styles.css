@@ -487,15 +487,15 @@ h1, h2, h3, p {
     position: fixed;
     top: 0;
     background-color: rgba(46, 47, 66, 0.4);
-    /* opacity: 0;
+    opacity: 0;
     visibility: hidden;
-    pointer-events: none;  */
+    pointer-events: none; 
 }
- /* .is-open{
+ .is-open{
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
-}  */
+} 
 .modal{
     width: 408px;
     min-height: 584px;
