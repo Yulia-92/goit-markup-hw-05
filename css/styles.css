@@ -663,7 +663,7 @@ h1, h2, h3, p {
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-    display: flex;
+    /* display: flex; */
     align-items: center;   
 }
 
