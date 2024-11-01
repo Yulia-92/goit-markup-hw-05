@@ -685,6 +685,9 @@ h1, h2, h3, p {
     border: none;
     fill: #f4f4fd;
 }
+.accept-box{
+    display: inline-flex;
+}
 .check-link{
     text-decoration: underline;
     line-height: 1.3;
