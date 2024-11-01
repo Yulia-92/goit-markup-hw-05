@@ -160,7 +160,7 @@ h1, h2, h3, p {
 }
 
 /* ----------------TWO---------------- */
-.features-hidden-title{
+.visually-hidden{
     position: absolute;
     width: 1px;
     height: 1px;
