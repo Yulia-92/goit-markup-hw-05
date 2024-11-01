@@ -452,7 +452,6 @@ h1, h2, h3, p {
     letter-spacing: 0.02em;
     color: #fff;
     margin-bottom: 16px;
-    margin-left: 24px;
 }
 .footer-input{
     border: 1px solid #fff;
@@ -509,11 +508,11 @@ h1, h2, h3, p {
     visibility: hidden;
     pointer-events: none; 
 } 
-/* .is-open{
+.backdrop.is-open{
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
-}  */
+} 
 .modal{
     width: 408px;
     min-height: 584px;
